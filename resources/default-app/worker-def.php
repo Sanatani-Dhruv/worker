@@ -63,7 +63,7 @@ if (count($argv) == 1) {
 		} else {
 			echo "Please! Provide Both: Path Name and App Name\n";
 			// echo "Use case: php $argv[0] install [PATH] [APP]\n";
-			echo "Use case: php worker install [PATH] [APP]\n";
+			echo "Use case: worker install [PATH] [APP]\n";
 		}
 	} elseif ($argv[1] == "uninstall") {
 		uninstall();
