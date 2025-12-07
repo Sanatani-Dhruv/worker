@@ -1,9 +1,9 @@
-# worker - organising executables like games for linux
+## worker - organising executables like games for linux
 
 ---
 <center>
 <img src="resources/images/worker-wrench.svg" width="30px" alt="Worker-Logo" style="vertical-align: middle">
-<span style="font-size: 20px;font-weight: bolder;">WORKER</span>
+<span style="font-size: 24px;font-weight: bolder;">WORKER</span>
 </center>
 
 ### PHP-CLI app for organising executables like games for linux
