@@ -2,8 +2,8 @@
 
 ---
 <center>
-<img src="resources/images/worker-wrench.svg" width="30px" alt="Worker-Logo" style="vertical-align: middle">
-<span style="font-size: 24px;font-weight: bolder;">WORKER</span>
+<img src="resources/images/worker-wrench.svg" width="30px" alt="Worker-Logo" style="vertical-align: middle;text-align: center;">
+<span style="font-size: 32px;font-weight: 900;text-align: center;">WORKER</span>
 </center>
 
 ### PHP-CLI app for organising executables like games for linux
